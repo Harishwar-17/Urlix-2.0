@@ -1,0 +1,8 @@
+{
+  "name": "URLIX — Malicious Link & Phishing Detection Engine",
+  "description": "High-performance phishing and malicious link detection engine with passive lexical heuristics, brand spoofing defense, and explainable risk scoring.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
